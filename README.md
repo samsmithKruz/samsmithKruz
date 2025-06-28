@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Welcome, I am Samuel Benny.<br>
-<!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=JosephJohncross&label=Profile%20views&color=4E2A84&style=flat-cube" alt="JosephJohncross" /></p> -->
-<!-- ![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br> -->
+![Profile Views](https://komarev.com/ghpvc/?username=samsmithkruz&label=Profile%20views&color=0e75b6&style=flat)
+
 🌱 I’m a Fullstack Web Developer<br>
 :four_leaf_clover: Majoring in API development, security and Web app development <br>
 ⚡ Passionate and obsessed with continuous growth, self-improvement and collaboration<br>
